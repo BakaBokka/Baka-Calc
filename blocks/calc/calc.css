@@ -1,0 +1,19 @@
+@import url(./__content/calc__content.css);
+@import url(./__output/calc__output.css);
+@import url(./__buttons/calc__buttons.css);
+@import url(./__button/calc__button.css);
+@import url(./__previous/calc__previous.css);
+@import url(./__current/calc__current.css);
+@import url(./__button/_type/calc__button_type_clear.css);
+@import url(./__button/_type/calc__button_type_delete.css);
+@import url(./__button/_type/calc__button_type_equals.css);
+
+
+.calc {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}

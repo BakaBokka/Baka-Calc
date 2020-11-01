@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Digital Display Font;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../../vendor/fonts/DigitalDisplayRegular-ODEO.woff") format("woff");
+
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../../vendor/fonts/Roboto-Medium.woff") format("woff");
+
+}
+
+.page {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  box-sizing: border-box;
+  background: rgb(42, 186, 255);
+  background: linear-gradient(
+    95deg,
+    rgba(42, 186, 255, 1) 8%,
+    rgba(32, 254, 177, 1) 52%,
+    rgba(16, 128, 50, 1) 94%
+  );
+}

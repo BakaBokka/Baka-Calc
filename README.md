@@ -1,5 +1,5 @@
 ## Baka Calc
-****
+
 
 ## Функционал:
 * Реализована базовая функциональность
@@ -10,4 +10,4 @@
 
 
 ## Ссылка на github pages:
-https://bakabokka.github.io/Baka-Calc/
+https://bakabokka.github.io/Baka-Calc/index.html

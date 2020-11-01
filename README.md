@@ -10,4 +10,4 @@
 
 
 ## Ссылка на github pages:
-https://rolling-scopes-school.github.io/bakabokka-JS2020Q3/calculator/
+https://bakabokka.github.io/Baka-Calc/
